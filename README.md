@@ -9,5 +9,3 @@ Though, fs should already be installed in node.
 
 This bot includes: Command and event handler & a test Command
 
-Please check out my website where you can find tools, games and videos:
-https://www.swedcraft.net
